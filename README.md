@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darb21" alt="darb21" /></a> </p>
 
-- 🌱 I’m currently learning **backEnd -**
+- 🌱 I’m currently learning **backEnd**
 
 - 👨‍💻 All of my projects are available at [on working](on working)
 
